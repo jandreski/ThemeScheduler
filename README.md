@@ -9,4 +9,4 @@ This project aims to create a program that can act as a theme switcher for KDE P
 
 ## To-do
 
-[] Everything
+- [ ] Everything
